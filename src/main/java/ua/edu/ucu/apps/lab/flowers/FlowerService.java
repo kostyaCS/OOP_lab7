@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab71.flowers;
+package ua.edu.ucu.apps.lab.flowers;
 
 import java.util.List;
 
