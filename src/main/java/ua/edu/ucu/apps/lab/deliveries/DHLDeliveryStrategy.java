@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab71.deliveries;
+package ua.edu.ucu.apps.lab.deliveries;
 
 import org.springframework.stereotype.Service;
 
