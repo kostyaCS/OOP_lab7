@@ -30,14 +30,6 @@
 		</dependency>
 
 		<dependency>
-		    <groupId>org.springframework.boot</groupId>
-		    <artifactId>spring-boot-starter-test</artifactId>
-		    <scope>test</scope>
-		</dependency>
-
-
-
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
@@ -64,15 +56,6 @@
 			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
-
-	<repositories>
-	    <repository>
-	        <id>central</id>
-	        <url>https://repo.maven.apache.org/maven2</url>
-	    </repository>
-	</repositories>
-
-
 	<build>
 		<plugins>
 			<plugin>
