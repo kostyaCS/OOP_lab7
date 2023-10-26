@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab71.payments;
+package ua.edu.ucu.apps.lab.payments;
 
 public interface PaymentStrategy {
     
