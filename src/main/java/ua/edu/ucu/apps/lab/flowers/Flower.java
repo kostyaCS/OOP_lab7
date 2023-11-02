@@ -10,10 +10,12 @@ import lombok.NoArgsConstructor;
 @Getter
 @Entity
 @NoArgsConstructor
-public class Flower {
+public class Flower extends Item {
     @Id
     private Integer id;
     private String color;
     private double price;
     private double sepalLength;
+
+    public double price() { return this.price; }
 }
